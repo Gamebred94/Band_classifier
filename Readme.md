@@ -14,4 +14,5 @@ This is a WIP and currently classifies only the below bands:
 --- 
 <br>
 You can click on the below icon to launch the app.  
+
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Gamebred94/Band_classifier/HEAD?urlpath=%2Fvoila%2Frender%2FBand_classifier_app.ipynb)
